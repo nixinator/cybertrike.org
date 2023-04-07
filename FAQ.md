@@ -111,4 +111,29 @@ To power a CPAP machine while camping, a portable lithium power station and sola
 
 If you have been diagnosed with sleep apnea and have been prescribed a CPAP machine by your doctor, it is important to use the machine as directed to manage your condition. However, missing one night of CPAP therapy is not likely to be life-threatening, especially if it is an isolated incident.
 
+
+* how is the cybertrike powered
+
+The Cybertrike is powered by a combination of human pedaling and electric motor assistance. It is designed to be an electric-assist trike, which means that it has a battery-powered motor to provide assistance when pedaling becomes difficult or when the rider needs an extra boost of speed.
+
+The electric motor is powered by a lithium-ion battery pack that can be recharged using a standard electrical outlet or solar panels when camping off-grid. The motor assistance can be adjusted using a control panel located on the handlebars, allowing the rider to increase or decrease the amount of assistance as needed. This battery can also be used to power the CPAP machine is terms of emergency.
+
+The combination of human pedaling and electric motor assistance makes the Cybertrike an efficient and environmentally friendly mode of transportation. It allows the rider to cover long distances while reducing their carbon footprint and promoting sustainable travel.
+
+
+* What technlogy does the cybertrike use
+
+The Cybertrike is equipped with several pieces of technology to help it achieve its mission of raising awareness of sleep apnea and providing CPAP machines to those in need. Here are some examples:
+
+Live streaming technology: The Cybertrike uses live streaming technology to allow viewers to follow the journey in real-time and interact with the rider. This technology allows the Cybertrike mission to reach a wider audience and engage with supporters from all over the world.
+
+Solar panels: The Cybertrike is equipped with solar panels to provide power to the electric motor and other onboard technology when camping off-grid. This sustainable technology helps to reduce the reliance on traditional sources of power and promote environmentally friendly travel.
+
+CPAP machines: The Cybertrike mission focuses on providing CPAP machines to those who cannot afford them. These machines use advanced technology to deliver continuous positive airway pressure and help those with sleep apnea to breathe more easily during sleep.
+
+Navigation technology: The Cybertrike uses navigation technology to plan and execute the route for the journey. This technology includes GPS navigation, maps, and other tools to help the rider stay on track and reach their destination safely.
+
+Overall, the Cybertrike uses a combination of advanced technology and sustainable practices to achieve its mission of raising awareness of sleep apnea and providing CPAP machines to those in need.
+
+
  
