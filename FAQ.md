@@ -1,6 +1,9 @@
 Cyber Trike FAQ.
 
 
+* What is obstructive sleep apnea
+
+Obstructive sleep apnea (OSA) is a common sleep disorder that causes a person's breathing to repeatedly stop and start during sleep. It occurs when the muscles in the back of the throat fail to keep the airway open, despite efforts to breathe. This can result in loud snoring, gasping for air, and interrupted sleep. OSA can lead to a range of health problems, including high blood pressure, heart disease, stroke, and depression, among others. It is important to get a proper diagnosis and treatment for OSA to avoid these serious health consequences.
 
 
 * How long with the Journey be?
